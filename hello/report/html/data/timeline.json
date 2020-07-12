@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "your-desired-host-name",
+    "children" : [ {
+      "name" : "80170-MainThread",
+      "children" : [ {
+        "name" : "test_add_contact[args0]",
+        "uid" : "e0953220b5d07f64",
+        "parentUid" : "f99984c852544be89d17068bb3f5bba2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1594456500257,
+          "stop" : 1594456514266,
+          "duration" : 14009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'name': 'zhangsan', 'phone': '188'}" ]
+      } ],
+      "uid" : "f99984c852544be89d17068bb3f5bba2"
+    } ],
+    "uid" : "e5f305716ab299db4b0cf13ad2b5c220"
+  } ]
+}

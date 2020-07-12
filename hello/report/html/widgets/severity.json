@@ -1,0 +1,11 @@
+[ {
+  "uid" : "e0953220b5d07f64",
+  "name" : "test_add_contact[args0]",
+  "time" : {
+    "start" : 1594456500257,
+    "stop" : 1594456514266,
+    "duration" : 14009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

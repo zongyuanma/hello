@@ -1,0 +1,18 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_add_contact[args0]",
+    "uid" : "e0953220b5d07f64",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1594456500257,
+      "stop" : 1594456514266,
+      "duration" : 14009
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{'name': 'zhangsan', 'phone': '188'}" ]
+  } ]
+}

@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "scripts.test_contact",
+    "children" : [ {
+      "name" : "test_add_contact[args0]",
+      "uid" : "e0953220b5d07f64",
+      "parentUid" : "2f95b1347bbab77cbfc9fd4fe609969b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594456500257,
+        "stop" : 1594456514266,
+        "duration" : 14009
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'name': 'zhangsan', 'phone': '188'}" ]
+    } ],
+    "uid" : "scripts.test_contact"
+  } ]
+}

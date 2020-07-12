@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "scripts",
+    "children" : [ {
+      "name" : "test_contact",
+      "children" : [ {
+        "name" : "TestContact",
+        "children" : [ {
+          "name" : "test_add_contact[args0]",
+          "uid" : "e0953220b5d07f64",
+          "parentUid" : "ab29077624047088625b1b849f580615",
+          "status" : "passed",
+          "time" : {
+            "start" : 1594456500257,
+            "stop" : 1594456514266,
+            "duration" : 14009
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'name': 'zhangsan', 'phone': '188'}" ]
+        } ],
+        "uid" : "ab29077624047088625b1b849f580615"
+      } ],
+      "uid" : "f32796348a493974b8d9dfdeab0b3109"
+    } ],
+    "uid" : "af586ea5ffb1b57fad0f98a55a6d147c"
+  } ]
+}

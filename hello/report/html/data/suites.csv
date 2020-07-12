@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jul 11 16:35:00 CST 2020","Sat Jul 11 16:35:14 CST 2020","14009","scripts","test_contact","TestContact","","","test_add_contact[args0]",""
